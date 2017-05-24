@@ -1,0 +1,62 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="trial.com" resolutions="1x" timestamp="1495595436063">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3793272390" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>my-shazam:phone>discover:phone>charts:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>my-shazam:phone>discover:phone>charts:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>my-shazam:phone>discover:phone>charts:index"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:phone>my-shazam:phone>discover:phone>charts:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>my-shazam:phone>discover:phone>charts:index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:phone>my-shazam:phone>discover:phone>charts"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>my-shazam:phone>discover:phone>charts"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>my-shazam:phone>discover:phone>charts:index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-01.png" crc="107282687" seo="true" ref="phone>index:phone>my-shazam:phone>discover:phone>charts"/>
+    <file name="my shazam-02.png" crc="4017370118" seo="true" ref="phone>index:phone>my-shazam:phone>discover:phone>charts"/>
+    <file name="discover-01.png" crc="4090039138" seo="true" ref="phone>index:phone>my-shazam:phone>discover:phone>charts"/>
+    <file name="charts-01.png" crc="4278950136" seo="true" ref="phone>index:phone>my-shazam:phone>discover:phone>charts"/>
+    <file name="home-01-01-crop-u571.png" crc="450713241" ref="phone>index"/>
+    <file name="auto box-02-02-crop-u346.png" crc="18856979" ref="phone>index"/>
+    <file name="search-01-01.png" crc="13945277" seo="true" ref="phone>index:index"/>
+    <file name="shazam logo-02.png" crc="4058782785" seo="true" ref="phone>index:index"/>
+    <file name="camera-02.png" crc="339348498" seo="true" ref="phone>index:index"/>
+    <file name="contact-01.png" crc="3943488264" seo="true" ref="phone>my-shazam"/>
+    <file name="profile-02.png" crc="4036745921" seo="true" ref="phone>my-shazam"/>
+    <file name="gear-02.png" crc="3962584595" seo="true" ref="phone>my-shazam"/>
+    <file name="play-01.png" crc="3828446936" seo="true" ref="phone>my-shazam"/>
+    <file name="a-01.png" crc="310079927" seo="true" ref="phone>my-shazam:phone>charts"/>
+    <file name="b-01.png" crc="375249679" seo="true" ref="phone>my-shazam"/>
+    <file name="c-01.png" crc="403344046" seo="true" ref="phone>my-shazam"/>
+    <file name="d-01.png" crc="4072289909" seo="true" ref="phone>my-shazam"/>
+    <file name="shazam-02-crop-u508.png" crc="176055226" ref="phone>my-shazam"/>
+    <file name="fb like-02.png" crc="505355421" seo="true" ref="phone>my-shazam"/>
+    <file name="discover-01-01.png" crc="355699564" seo="true" ref="phone>discover"/>
+    <file name="bg-02-crop-u540.png" crc="4099298318" ref="phone>discover"/>
+    <file name="tick-02.png" crc="4147161152" seo="true" ref="phone>discover"/>
+    <file name="charts-01-01.png" crc="164521182" seo="true" ref="phone>charts"/>
+    <file name="e-01-crop-u737.png" crc="3887607842" ref="phone>charts"/>
+    <file name="f-01.png" crc="331279247" seo="true" ref="phone>charts"/>
+    <file name="g-01.jpg" crc="3985032663" seo="true" ref="phone>charts"/>
+    <file name="h-01.png" crc="4122834215" seo="true" ref="phone>charts"/>
+    <file name="shazam-02-crop-u654.png" crc="159921130" ref="phone>charts"/>
+    <file name="home-01-01-crop-u850.png" crc="450713241" ref="index"/>
+    <file name="auto box-02-02-crop-u839.png" crc="18856979" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4207943271" ref="phone>charts:phone>discover:phone>index:phone>my-shazam"/>
+      <file name="charts.css" crc="7880777" ref="phone>charts"/>
+      <file name="discover.css" crc="4078663276" ref="phone>discover"/>
+      <file name="index.css" crc="65195030" ref="phone>index"/>
+      <file name="my-shazam.css" crc="3944698611" ref="phone>my-shazam"/>
+    </folder>
+    <file name="index.html" crc="534993182" seo="true" mt="1495594766532" redirect="true"/>
+    <file name="my-shazam.html" crc="195450923" seo="true" mt="1493781500757" redirect="true"/>
+    <file name="discover.html" crc="4072576414" seo="true" mt="1493244114238" redirect="true"/>
+    <file name="charts.html" crc="505501613" seo="true" mt="1493783246182" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4097708602" seo="true" mt="1495594945133" redirect="true"/>
+</manifest>
